@@ -1,0 +1,137 @@
+[
+  {
+    "image": "../assets/imgs/e-commerce.webp",
+    "title": "E-commerce",
+    "desc": "An E-commerce web application by Django that contains diff payment methods and the user can make his/ her orders whether he/she has logged in or not.",
+    "tags": ["HTML5", "CSS3", "JS", "Python", "Django"],
+    "code": "https://github.com/muhammadgalhoum/e-commerce",
+    "website": "",
+    "type": "back"
+  },
+  {
+    "image": "../assets/imgs/dashboard.webp",
+    "title": "Dashboard",
+    "desc": "A customized Dashboard contains many sections for controlling the website's features.",
+    "tags": ["HTML5", "CSS3"],
+    "code": "https://github.com/muhammadgalhoum/Dashboard",
+    "website": "https://muhammadgalhoum.github.io/Dashboard/",
+    "type": "front"
+  },
+  {
+    "image": "../assets/imgs/flower.webp",
+    "title": "Flower",
+    "desc": "This is a freelancing Job and this website is for buying flowers.",
+    "tags": ["HTML5", "CSS3"],
+    "code": "https://github.com/muhammadgalhoum/Flower-website",
+    "website": "https://muhammadgalhoum.github.io/Flower-website/",
+    "type": "front"
+  },
+  {
+    "image": "../assets/imgs/profile.webp",
+    "title": "Profile",
+    "desc": "This profile can be used as a personal or a company profile after customizing it to the needs.",
+    "tags": ["HTML5", "CSS3", "JS"],
+    "code": "https://github.com/muhammadgalhoum/Portfolio",
+    "website": "https://muhammadgalhoum.github.io/Portfolio/",
+    "type": "front"
+  },
+  {
+    "image": "../assets/imgs/blog-post.webp",
+    "title": "Blog post",
+    "desc": "A Blog post web application by Django with different roles and responsibilities.",
+    "tags": ["HTML5", "CSS3", "Bootstrap", "JS", "Python", "Django"],
+    "code": "https://github.com/muhammadgalhoum/Blog-using-django",
+    "website": "",
+    "type": "back"
+  },
+  {
+    "image": "../assets/imgs/quiz-app.webp",
+    "title": "Quiz App",
+    "desc": "A quiz application consists of two sections one of them contains religious and programming questions.",
+    "tags": ["HTML5", "CSS3", "JS"],
+    "code": "https://github.com/muhammadgalhoum/quiz-app",
+    "website": "https://muhammadgalhoum.github.io/quiz-app/",
+    "type": "front"
+  },
+  {
+    "image": "../assets/imgs/to-do.webp",
+    "title": "To-Do App",
+    "desc": "To-Do App using Django, built on Eisenhower Matrix which is a task management tool.",
+    "tags": ["HTML5", "CSS3", "Python", "Django"],
+    "code": "https://github.com/muhammadgalhoum/To-Do-app",
+    "website": "",
+    "type": "back"
+  },
+  {
+    "image": "../assets/imgs/hangman.webp",
+    "title": "Hangman Game",
+    "desc": "Hangman Game includes many categories like clothes, fruits, countries, etc.",
+    "tags": ["HTML5", "CSS3", "JS"],
+    "code": "https://github.com/muhammadgalhoum/Hangman_Game",
+    "website": "https://muhammadgalhoum.github.io/Hangman_Game/",
+    "type": "front"
+  },
+  {
+    "image": "../assets/imgs/memory.webp",
+    "title": "Memory Game",
+    "desc": "Memory Game for testing your memory power.",
+    "tags": ["HTML5", "CSS3", "JS"],
+    "code": "https://github.com/muhammadgalhoum/memory_game",
+    "website": "https://muhammadgalhoum.github.io/memory_game/",
+    "type": "front"
+  },
+  {
+    "image": "../assets/imgs/crud.webp",
+    "title": "CRUD System",
+    "desc": "A Project that Contains the main operations of any system like create, read, update, and delete, and I added a new feature which is the Search feature.",
+    "tags": ["HTML5", "CSS3", "JS"],
+    "code": "https://github.com/muhammadgalhoum/CRUD-System",
+    "website": "https://muhammadgalhoum.github.io/Dashboard/",
+    "type": "front"
+  },
+  {
+    "image": "../assets/imgs/todo-app.webp",
+    "title": "To-Do App",
+    "desc": "To-Do App with HTML5 Drag and Drop API.",
+    "tags": ["HTML5", "CSS3", "JS"],
+    "code": "https://github.com/muhammadgalhoum/ToDo-App",
+    "website": "https://muhammadgalhoum.github.io/ToDo-App/",
+    "type": "front"
+  },
+  {
+    "image": "../assets/imgs/typing-speed.webp",
+    "title": "Typing Speed Test",
+    "desc": "Typing Speed Test Game for testing your writing speed and contains three levels [Easy, Normal, Diffcult].",
+    "tags": ["HTML5", "CSS3", "JS"],
+    "code": "https://github.com/muhammadgalhoum/Typing_Speed_Test_Game",
+    "website": "https://muhammadgalhoum.github.io/Typing_Speed_Test_Game/",
+    "type": "front"
+  },
+  {
+    "image": "../assets/imgs/fetch-api.webp",
+    "title": "Fetching GitHub Repos",
+    "desc": "A simple Web Application for fetching the user Repos for any GitHub user.",
+    "tags": ["HTML5", "CSS3", "JS"],
+    "code": "https://github.com/muhammadgalhoum/App-for-fetching-GitHub-Repos",
+    "website": "https://muhammadgalhoum.github.io/App-for-fetching-GitHub-Repos/",
+    "type": "front"
+  },
+  {
+    "image": "../assets/imgs/kasper-template.webp",
+    "title": "Kasper Template",
+    "desc": "This template can be used as a personal or a company profile.",
+    "tags": ["HTML5", "CSS3", "JS"],
+    "code": "https://github.com/muhammadgalhoum/Kasper_Template",
+    "website": "https://muhammadgalhoum.github.io/Kasper_Template/",
+    "type": "front"
+  },
+  {
+    "image": "../assets/imgs/leon-template.webp",
+    "title": "Leon Template",
+    "desc": "This template can be used as a personal or a company profile.",
+    "tags": ["HTML5", "CSS3", "JS"],
+    "code": "https://github.com/muhammadgalhoum/Leon_Template",
+    "website": "https://muhammadgalhoum.github.io/Leon_Template/",
+    "type": "front"
+  }
+]
