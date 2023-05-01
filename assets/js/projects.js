@@ -19,7 +19,7 @@ async function fetchProjects() {
       
       let titleDiv = document.createElement("div");
       titleDiv.classList.add("title");
-      titleDiv.innerHTML = '<i class="las la-angle-double-up"></i>';
+      titleDiv.innerHTML = '<i class="fa-solid fa-angles-up"></i>';
       
       let cardTitle = document.createElement("h4");
       let cardTitleNode = document.createTextNode(`${pro.title}`);
