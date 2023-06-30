@@ -29,9 +29,9 @@ let typedTextSpan = document.querySelector(".typed-text");
 let cursorSpan = document.querySelector(".cursor");
 const textArray = [
   "My name is Muhammad",
-  "I'm a Python web developer",
-  "A Native Front-end developer",
-  "Available as a Freelancer",
+  "I'm a Python Web Developer",
+  "A Native Front-end Developer",
+  "Also available as a Freelancer",
 ];
 
 const typingDelay = 200;
