@@ -9,6 +9,33 @@
     "type": "back"
   },
   {
+    "image": "../assets/imgs/blog-post.webp",
+    "title": "Blog post",
+    "desc": "A Blog post web application by Django with different roles and responsibilities.",
+    "tags": ["HTML5", "CSS3", "Bootstrap", "JS", "Python", "Django"],
+    "code": "https://github.com/muhammadgalhoum/Blog-using-django",
+    "website": "",
+    "type": "back"
+  },
+  {
+    "image": "../assets/imgs/to-do.webp",
+    "title": "To-Do App",
+    "desc": "To-Do App using Django, built on Eisenhower Matrix which is a task management tool.",
+    "tags": ["HTML5", "CSS3", "Python", "Django"],
+    "code": "https://github.com/muhammadgalhoum/To-Do-app",
+    "website": "",
+    "type": "back"
+  },
+  {
+    "image": "../assets/imgs/quiz-app.webp",
+    "title": "Quiz App",
+    "desc": "A quiz application consists of two sections one of them contains religious and programming questions.",
+    "tags": ["HTML5", "CSS3", "JS"],
+    "code": "https://github.com/muhammadgalhoum/quiz-app",
+    "website": "https://muhammadgalhoum.github.io/quiz-app/",
+    "type": "front"
+  },
+  {
     "image": "../assets/imgs/dashboard.webp",
     "title": "Dashboard",
     "desc": "A customized Dashboard contains many sections for controlling the website's features.",
@@ -36,30 +63,48 @@
     "type": "front"
   },
   {
-    "image": "../assets/imgs/blog-post.webp",
-    "title": "Blog post",
-    "desc": "A Blog post web application by Django with different roles and responsibilities.",
-    "tags": ["HTML5", "CSS3", "Bootstrap", "JS", "Python", "Django"],
-    "code": "https://github.com/muhammadgalhoum/Blog-using-django",
+    "image": "../assets/imgs/udacity.webp",
+    "title": "Fyyur",
+    "desc": "Fyyur is a musical venue and artist booking site that facilitates the discovery and booking of shows between local performing artists and venues.",
+    "tags": ["Python", "Flask", "SQLAlchemy ORM", "Flask-Migrate","PostgreSQL"],
+    "code": "https://github.com/muhammadgalhoum/Fyyur",
     "website": "",
     "type": "back"
   },
   {
-    "image": "../assets/imgs/quiz-app.webp",
-    "title": "Quiz App",
-    "desc": "A quiz application consists of two sections one of them contains religious and programming questions.",
-    "tags": ["HTML5", "CSS3", "JS"],
-    "code": "https://github.com/muhammadgalhoum/quiz-app",
-    "website": "https://muhammadgalhoum.github.io/quiz-app/",
-    "type": "front"
+    "image": "../assets/imgs/udacity.webp",
+    "title": "Trivia",
+    "desc": "Trivia is a dynamic web app that offers a wide range of features for trivia enthusiasts.",
+    "tags": ["Python", "Flask", "SQLAlchemy ORM", "Flask-CORS", "API", "PostgreSQL"],
+    "code": "https://github.com/muhammadgalhoum/Trivia",
+    "website": "",
+    "type": "back"
   },
   {
-    "image": "../assets/imgs/to-do.webp",
-    "title": "To-Do App",
-    "desc": "To-Do App using Django, built on Eisenhower Matrix which is a task management tool.",
-    "tags": ["HTML5", "CSS3", "Python", "Django"],
-    "code": "https://github.com/muhammadgalhoum/To-Do-app",
+    "image": "../assets/imgs/udacity.webp",
+    "title": "Coffee Shop",
+    "desc": "An app that lets users add drinks with it's ingredients based on Roles and Permissions.",
+    "tags": ["Python","jose", "Flask", "SQLAlchemy", "Flask-SQLAlchemy", "API", "SQLite", "Authentication", "RBAC"],
+    "code": "https://github.com/muhammadgalhoum/coffee_shop",
     "website": "",
+    "type": "back"
+  },
+  {
+    "image": "../assets/imgs/udacity.webp",
+    "title": "Flask API",
+    "desc": "In this project, we containerized and deployed a Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild.",
+    "tags": ["Python", "Flask", "API", "Authentication", "RBAC", "AWS", "Docker"],
+    "code": "https://github.com/muhammadgalhoum/FSND_AWS_Project",
+    "website": "",
+    "type": "back"
+  },
+  {
+    "image": "../assets/imgs/udacity.webp",
+    "title": "Casting Agency",
+    "desc": "The Casting Agency models a company that is responsible for creating movies and managing and assigning actors to those movies.",
+    "tags": ["Python", "Flask", "API", "Authentication", "RBAC", "Docker", "Render"],
+    "code": "https://github.com/muhammadgalhoum/FSND",
+    "website": "https://render-deployment-example-me02.onrender.com/",
     "type": "back"
   },
   {
