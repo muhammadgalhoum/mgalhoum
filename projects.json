@@ -104,7 +104,7 @@
     "desc": "The Casting Agency models a company that is responsible for creating movies and managing and assigning actors to those movies.",
     "tags": ["Python", "Flask", "API", "Authentication", "RBAC", "Docker", "Render"],
     "code": "https://github.com/muhammadgalhoum/FSND",
-    "website": "https://render-deployment-example-me02.onrender.com/",
+    "website": "",
     "type": "back"
   },
   {
