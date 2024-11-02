@@ -2,7 +2,7 @@ let cardsDiv = document.querySelector(".cards");
 
 async function fetchProjects() {
   try {
-    let response = await fetch("../../projects.json");
+    let response = await fetch("/mgalhoum/projects.json");
     let projects = await response.json();
     
     for (let pro of projects) {

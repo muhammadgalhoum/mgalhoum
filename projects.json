@@ -1,6 +1,6 @@
 [
   {
-    "image": "../assets/imgs/e-commerce.webp",
+    "image": "/mgalhoum/assets/imgs/e-commerce.webp",
     "title": "E-commerce",
     "desc": "An E-commerce web application by Django that contains diff payment methods and the user can make his/ her orders whether he/she has logged in or not.",
     "tags": ["HTML5", "CSS3", "JS", "Python", "Django"],
@@ -9,7 +9,7 @@
     "type": "back"
   },
   {
-    "image": "../assets/imgs/blog-post.webp",
+    "image": "/mgalhoum/assets/imgs/blog-post.webp",
     "title": "Blog post",
     "desc": "A Blog post web application by Django with different roles and responsibilities.",
     "tags": ["HTML5", "CSS3", "Bootstrap", "JS", "Python", "Django"],
@@ -18,7 +18,7 @@
     "type": "back"
   },
   {
-    "image": "../assets/imgs/to-do.webp",
+    "image": "/mgalhoum/assets/imgs/to-do.webp",
     "title": "To-Do App",
     "desc": "To-Do App using Django, built on Eisenhower Matrix which is a task management tool.",
     "tags": ["HTML5", "CSS3", "Python", "Django"],
@@ -27,7 +27,7 @@
     "type": "back"
   },
   {
-    "image": "../assets/imgs/quiz-app.webp",
+    "image": "/mgalhoum/assets/imgs/quiz-app.webp",
     "title": "Quiz App",
     "desc": "A quiz application consists of two sections one of them contains religious and programming questions.",
     "tags": ["HTML5", "CSS3", "JS"],
@@ -36,7 +36,7 @@
     "type": "front"
   },
   {
-    "image": "../assets/imgs/dashboard.webp",
+    "image": "/mgalhoum/assets/imgs/dashboard.webp",
     "title": "Dashboard",
     "desc": "A customized Dashboard contains many sections for controlling the website's features.",
     "tags": ["HTML5", "CSS3"],
@@ -45,7 +45,7 @@
     "type": "front"
   },
   {
-    "image": "../assets/imgs/flower.webp",
+    "image": "/mgalhoum/assets/imgs/flower.webp",
     "title": "Flower",
     "desc": "This is a freelancing Job and this website is for buying flowers.",
     "tags": ["HTML5", "CSS3"],
@@ -54,7 +54,7 @@
     "type": "front"
   },
   {
-    "image": "../assets/imgs/profile.webp",
+    "image": "/mgalhoum/assets/imgs/profile.webp",
     "title": "Profile",
     "desc": "This profile can be used as a personal or a company profile after customizing it to the needs.",
     "tags": ["HTML5", "CSS3", "JS"],
@@ -63,7 +63,7 @@
     "type": "front"
   },
   {
-    "image": "../assets/imgs/udacity.webp",
+    "image": "/mgalhoum/assets/imgs/udacity.webp",
     "title": "Fyyur",
     "desc": "Fyyur is a musical venue and artist booking site that facilitates the discovery and booking of shows between local performing artists and venues.",
     "tags": ["Python", "Flask", "SQLAlchemy ORM", "Flask-Migrate","PostgreSQL"],
@@ -72,7 +72,7 @@
     "type": "back"
   },
   {
-    "image": "../assets/imgs/udacity.webp",
+    "image": "/mgalhoum/assets/imgs/udacity.webp",
     "title": "Trivia",
     "desc": "Trivia is a dynamic web app that offers a wide range of features for trivia enthusiasts.",
     "tags": ["Python", "Flask", "SQLAlchemy ORM", "Flask-CORS", "API", "PostgreSQL"],
@@ -81,7 +81,7 @@
     "type": "back"
   },
   {
-    "image": "../assets/imgs/udacity.webp",
+    "image": "/mgalhoum/assets/imgs/udacity.webp",
     "title": "Coffee Shop",
     "desc": "An app that lets users add drinks with it's ingredients based on Roles and Permissions.",
     "tags": ["Python","jose", "Flask", "SQLAlchemy", "Flask-SQLAlchemy", "API", "SQLite", "Authentication", "RBAC"],
@@ -90,7 +90,7 @@
     "type": "back"
   },
   {
-    "image": "../assets/imgs/udacity.webp",
+    "image": "/mgalhoum/assets/imgs/udacity.webp",
     "title": "Flask API",
     "desc": "In this project, we containerized and deployed a Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild.",
     "tags": ["Python", "Flask", "API", "Authentication", "RBAC", "AWS", "Docker"],
@@ -99,7 +99,7 @@
     "type": "back"
   },
   {
-    "image": "../assets/imgs/udacity.webp",
+    "image": "/mgalhoum/assets/imgs/udacity.webp",
     "title": "Casting Agency",
     "desc": "The Casting Agency models a company that is responsible for creating movies and managing and assigning actors to those movies.",
     "tags": ["Python", "Flask", "API", "Authentication", "RBAC", "Docker", "Render"],
@@ -108,7 +108,7 @@
     "type": "back"
   },
   {
-    "image": "../assets/imgs/hangman.webp",
+    "image": "/mgalhoum/assets/imgs/hangman.webp",
     "title": "Hangman Game",
     "desc": "Hangman Game includes many categories like clothes, fruits, countries, etc.",
     "tags": ["HTML5", "CSS3", "JS"],
@@ -117,7 +117,7 @@
     "type": "front"
   },
   {
-    "image": "../assets/imgs/memory.webp",
+    "image": "/mgalhoum/assets/imgs/memory.webp",
     "title": "Memory Game",
     "desc": "Memory Game for testing your memory power.",
     "tags": ["HTML5", "CSS3", "JS"],
@@ -126,7 +126,7 @@
     "type": "front"
   },
   {
-    "image": "../assets/imgs/crud.webp",
+    "image": "/mgalhoum/assets/imgs/crud.webp",
     "title": "CRUD System",
     "desc": "A Project that Contains the main operations of any system like create, read, update, and delete, and I added a new feature which is the Search feature.",
     "tags": ["HTML5", "CSS3", "JS"],
@@ -135,7 +135,7 @@
     "type": "front"
   },
   {
-    "image": "../assets/imgs/todo-app.webp",
+    "image": "/mgalhoum/assets/imgs/todo-app.webp",
     "title": "To-Do App",
     "desc": "To-Do App with HTML5 Drag and Drop API.",
     "tags": ["HTML5", "CSS3", "JS"],
@@ -144,7 +144,7 @@
     "type": "front"
   },
   {
-    "image": "../assets/imgs/typing-speed.webp",
+    "image": "/mgalhoum/assets/imgs/typing-speed.webp",
     "title": "Typing Speed Test",
     "desc": "Typing Speed Test Game for testing your writing speed and contains three levels [Easy, Normal, Diffcult].",
     "tags": ["HTML5", "CSS3", "JS"],
@@ -153,7 +153,7 @@
     "type": "front"
   },
   {
-    "image": "../assets/imgs/fetch-api.webp",
+    "image": "/mgalhoum/assets/imgs/fetch-api.webp",
     "title": "Fetching GitHub Repos",
     "desc": "A simple Web Application for fetching the user Repos for any GitHub user.",
     "tags": ["HTML5", "CSS3", "JS"],
@@ -162,7 +162,7 @@
     "type": "front"
   },
   {
-    "image": "../assets/imgs/kasper-template.webp",
+    "image": "/mgalhoum/assets/imgs/kasper-template.webp",
     "title": "Kasper Template",
     "desc": "This template can be used as a personal or a company profile.",
     "tags": ["HTML5", "CSS3", "JS"],
@@ -171,7 +171,7 @@
     "type": "front"
   },
   {
-    "image": "../assets/imgs/leon-template.webp",
+    "image": "/mgalhoum/assets/imgs/leon-template.webp",
     "title": "Leon Template",
     "desc": "This template can be used as a personal or a company profile.",
     "tags": ["HTML5", "CSS3", "JS"],
