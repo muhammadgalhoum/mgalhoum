@@ -30,6 +30,7 @@ let cursorSpan = document.querySelector(".cursor");
 const textArray = [
   "My name is Muhammad",
   "I'm a Python Web Developer",
+  "An Odoo Developer",
   "A Native Front-end Developer",
   "Also available as a Freelancer",
 ];
